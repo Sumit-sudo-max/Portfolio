@@ -1,8 +1,4 @@
 # Portfolio
-Link
-
-Certainly! A good README.md file provides important information about your project and helps others understand its purpose, how to use it, and how to contribute. Here are some lines you might consider including in your README.md file for a front-end portfolio with HTML, CSS, and JavaScript, featuring GSAP animations:
-
 My Front-End Portfolio
 Welcome to my front-end portfolio! This project showcases my skills in web development, incorporating HTML, CSS, and JavaScript with GSAP animations.
 
