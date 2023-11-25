@@ -17,7 +17,7 @@ Responsive Design: The portfolio is designed to be accessible and look great on 
 GSAP Animations: Utilizes the GreenSock Animation Platform (GSAP) for smooth and engaging animations.
 Interactive Elements: Incorporates interactive elements powered by JavaScript to enhance user experience.
 Installation
-Clone the repository: git clone https://github.com/your-username/your-portfolio.git
+Clone the repository: git clone https://github.com/Sumit-sudo-max/Portfolio.git
 Open the project folder: cd your-portfolio
 Usage
 Open the index.html file in your preferred web browser.
